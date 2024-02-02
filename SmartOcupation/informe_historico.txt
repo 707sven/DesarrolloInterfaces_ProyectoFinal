@@ -1,0 +1,9 @@
+[TABLA ALQUILERES]
+Número Expediente | Fecha Entrada | Tiempo Estimado | Nombre Cliente | Datos Personales Cliente | Datos Facturación Cliente | ID Vivienda
+5 | 2023-05-20 | 45 | Javier López | Av. Nueva 012 | 2109-8765-4321-0987 | 5
+6 | 2023-06-15 | 60 | Ana Fernández | C/ Otra Nueva 456 | 8765-4321-0987-6543 | 6
+
+[TABLA VIVIENDAS]
+ID Vivienda | Ubicacion | Metros Cuadrados | Num Habitaciones | Num Baños | Cod Referencia | Alquiler Mensual
+5 | Calle E 345 | 100.0 | 3 | 2 | JKL012 | 1100.0
+6 | Avenida F 678 | 75.0 | 1 | 1 | MNO345 | 700.0

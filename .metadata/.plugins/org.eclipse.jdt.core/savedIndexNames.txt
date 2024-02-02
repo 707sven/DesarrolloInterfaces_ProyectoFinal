@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\marta\Desktop\Desarrollo de interfaces\.metadata\.plugins\org.eclipse.jdt.core
+2771386243.index
+1865797976.index
+4106743117.index
+3873193751.index
+2755453504.index
